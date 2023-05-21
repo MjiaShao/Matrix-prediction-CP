@@ -51,7 +51,7 @@ Before running our code, please:
 5. Run 'simu1_mice.R';
 6. Run 'simu1_PPCA.R';
 7. Run 'plot_simu1_main.m' to reproduce Figure 1;
-8. Run 'plot_boxplot_simulation1' to reproduce Figure 3.  
+8. Run 'plot_boxplot_simulation1.m' to reproduce Figure 3.  
 
 
 <h3>To reproduce simulation 2 results in Section 4:</h3>
@@ -63,7 +63,7 @@ Before running our code, please:
 5. Run 'simu2_mice.R';
 6. Run 'simu2_PPCA.R';
 7. Run 'plot_simu2_main.m' to reproduce Figure 2;
-8. Run 'plot_boxplot_simulation2' to reproduce Figure 3. 
+8. Run 'plot_boxplot_simulation2.m' to reproduce Figure 3. 
 
 <h3>To reproduce data results in Section 4:</h3>
 
