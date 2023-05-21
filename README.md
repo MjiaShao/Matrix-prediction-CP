@@ -66,6 +66,7 @@ Before running our code, please:
 8. Run 'plot_boxplot_simulation2' to reproduce Figure 3. 
 
 <h3>To reproduce data results in Section 4:</h3>
+
 1. Run 'data_our_algorithm1.m';
 2. Run 'data_softImpute.R';
 3. Run 'plot_data_result.R' to reproduce Figure 4. 
@@ -75,8 +76,10 @@ Before running our code, please:
 1. Run 'plot_simu1_supp.m' to reproduce Figure 1. 
 2. Run 'plot_simu2_supp.m' to reproduce Figure 2. 
 
- <h3>Computing resources:</h3>
+<h3>Computing resources:</h3>
+
 1. Simulations and data example were run on (anonymized university's) computing server, 10 parallel Intel(R) Xeon(R) CPU's, (model specification anonymized), 1GB requested memory for each task, MATLAB R2022a.
+
 2. Simulation and data example time cost: reported as part of results.
 
 
