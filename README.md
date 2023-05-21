@@ -1,4 +1,4 @@
-# Conformal-matrix-prediction
+# Conformalized Matrix Prediction
 
 Each simulation/data example has its own main file.  See details below.
 
@@ -7,9 +7,20 @@ Each simulation/data example has its own main file.  See details below.
 * Distribution-Free Matrix Prediction Under Arbitrary Missing Pattern <br />
 <i>Meijia Shao, Yuan Zhang</i><br>
 
+BibTeX
+```bibtex
+@article{shao2023distribution,
+    AUTHOR = {Shao, Meijia and Zhang, Yuan},
+     TITLE = {Distribution-Free Matrix Prediction Under Arbitrary Missing Pattern},
+   JOURNAL = {ArXiv preprint arXiv:},
+      YEAR = {2023},
+}
+
+
+```
 
 <h2>Contents:</h2>
-This README file contains step-by-step instructions on how to reproduce the simulation and data example results in Main Paper.
+This README file contains step-by-step instructions on how to reproduce the simulation and data example results in this paper.
 
 
 <h2>Remarks:</h2>
