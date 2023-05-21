@@ -1,5 +1,4 @@
 
-setwd("C:/phd4/network yuan/conformal_pred/github_CP")
 source("./data_generate.R")
 source("./data_generate_error.R")
 library(missMDA)

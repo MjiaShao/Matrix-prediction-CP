@@ -1,5 +1,5 @@
 
-setwd("C:/phd4/network yuan/conformal_pred/github_CP")
+
 
 source("./Function_main_algebraic.R")
 source("./Functions_supp_algebraic.R")

@@ -1,4 +1,3 @@
-setwd("C:/phd4/network yuan/conformal_pred/github_CP")
 
 library(mice)
 library(Matrix)

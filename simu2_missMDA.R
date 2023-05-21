@@ -51,7 +51,6 @@ for(k in 1:totalboot){
   data[row_index,col_index] = NA
   data[col_index,row_index] = NA
 
-  #ncomp <- estim_ncpPCA(data)
   timestart = Sys.time()
   imputed_mat <- MIPCA(data, ncp = 2,nboot = 100)
   everyimpute = imputed_mat$res.MI

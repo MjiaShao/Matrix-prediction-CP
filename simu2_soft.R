@@ -40,7 +40,6 @@ for(k in 1:totalboot){
   data[lower.tri(data)] <- t(data)[lower.tri(data)]
   diag(data) <- 0
   
-  # Get the row and column index of the selected entry
   row_index <- n
   col_index <- n-1
   pred <- data[row_index,col_index]
