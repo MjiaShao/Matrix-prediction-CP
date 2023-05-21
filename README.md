@@ -39,7 +39,7 @@ https://github.com/AudeSportisse/PPCA_MNAR
 
 Before running our code, please:
 
-1. Place all coding files in main working folder, and create two subfolders named 'result','figure','data';
+1. Place all coding files in main working folder, and create three subfolders named 'result','figure' and 'data';
 2. Place the data files in a subfolder named 'data'.
 
 <h3>To reproduce simulation 1 results in Section 4:</h3>
