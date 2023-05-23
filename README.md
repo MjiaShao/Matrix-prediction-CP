@@ -12,11 +12,9 @@ BibTeX
 @article{shao2023distribution,
     AUTHOR = {Shao, Meijia and Zhang, Yuan},
      TITLE = {Distribution-Free Matrix Prediction Under Arbitrary Missing Pattern},
-   JOURNAL = {ArXiv preprint arXiv:},
+   JOURNAL = {ArXiv preprint arXiv:2305.11640},
       YEAR = {2023},
 }
-
-
 ```
 
 <h2>Contents:</h2>
@@ -82,7 +80,7 @@ Before running our code, please:
 2. Run 'data_softImpute.R';
 3. Run 'plot_data_result.R' to reproduce Figure 4. 
 
-<h3>To reproduce Figure 1 \& 2 in Supplementary Materials:</h3>
+<h3>To reproduce Figure 1 & 2 in Supplementary Materials:</h3>
 
 1. Run 'plot_simu1_supp.m' to reproduce Figure 1. 
 2. Run 'plot_simu2_supp.m' to reproduce Figure 2. 
